@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606056042 source:c:\users\mbkara\desktop\berker\q4\main.cpp
+	<iostream>
+	<fstream>
+
